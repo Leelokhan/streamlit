@@ -33,7 +33,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "leelokhan"         # 用户名
 UUID = "5be43014-bb77-46cb-7d77-585f31f90e1a"                     # UUID，留空则自动生成
-PORT = 45858                   # Vmess端口，留空或0则自动生成
+PORT = 8001                   # Vmess端口，留空或0则自动生成
 DOMAIN = "sd.hengzai.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiMjFjNmQ3OGI3ZjhiMGI4MzczMmM1MmIwZTgwMWQ3MjEiLCJ0IjoiY2MyMDQ5NDQtOTU1Mi00ZGNiLTk0NjMtZjViOWMwZWU4MjdmIiwicyI6Ik4yWm1ZV0UzTkRrdFpEYzNNUzAwWWpkakxXSmpZbU10TkRRNU5qUXhOelk1TnpReSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
